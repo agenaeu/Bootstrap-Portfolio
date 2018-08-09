@@ -1,0 +1,14 @@
+#port {
+    background-color: #ffffff;
+    color: #4aaaa5;
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    border: solid grey 1px;
+}
+.cardbackground {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}

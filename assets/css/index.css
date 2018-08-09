@@ -1,0 +1,27 @@
+footer {
+    padding: 20px 20px 0px 20px;
+    text-align: center;
+    background-color: #666666;
+    width: 100%;
+    margin: 0px;
+    font-size: 12px;
+    position: absolute; 
+    bottom: 0px;
+}
+.profile {
+    height: 240px;
+    /* width: 224.5px; */
+}
+p {
+    line-height: 40px;
+}
+#about-me {
+    background-color: #ffffff;
+    color: #4aaaa5;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    border: solid grey 1px;
+}
