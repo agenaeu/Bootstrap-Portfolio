@@ -12,3 +12,18 @@
     color: #ffffff;
     text-align: center;
 }
+@media only screen and (min-width: 992px) {
+    .divwidth {
+        max-width: 960px;
+    }
+}
+@media only screen and (min-width: 760px) {
+    .divwidth {
+        max-width: 720px;
+    }
+}
+@media only screen and (min-width: 576px) {
+    .divwidth {
+        max-width: 540px;
+    }
+}
