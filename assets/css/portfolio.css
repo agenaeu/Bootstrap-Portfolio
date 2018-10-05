@@ -17,6 +17,17 @@
     color: #343a40;
     text-align: center;
 }
+footer {
+    padding: 20px 20px 0px 20px;
+    text-align: center;
+    background-color: #666666;
+    width: 100%;
+    margin: 0px;
+    font-size: 12px;
+    position: fixed; 
+    bottom: 0px;
+}
+
 
 @media only screen and (min-width: 992px) {
     .divwidth {
@@ -33,3 +44,4 @@
         max-width: 540px;
     }
 }
+

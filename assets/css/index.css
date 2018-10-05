@@ -10,18 +10,21 @@ footer {
 }
 .profile {
     height: 240px;
+    opacity: .9;
+
     /* width: 224.5px; */
 }
 p {
     line-height: 40px;
 }
 #about-me {
-    background-color: #ffffff;
-    color: #181aaa;
+    background-color: #e7e7dc;
+    color: #343a40;
     padding: 0px;
     margin: 0px;
 }
 
 .container {
     border: solid grey 1px;
+    background-color: #e7e7dc;
 }

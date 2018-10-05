@@ -10,6 +10,7 @@ footer {
 }
 .container {
     border: 1px solid grey;
+    background-color: #e7e7dc;
 }
 .row-flex {
     display: flex;
@@ -21,10 +22,13 @@ footer {
     color: #fff;
   }
 #contact {
-    background-color: #ffffff;
-    color: #181aaa;
-    padding: 20px;
+    background-color: #e7e7dc;
+    color: #343a40;
+   
     margin: 0px;
+}
+.card-header {
+    font-size: 18px;
 }
 #gitHub {
     color: #ffffff;
