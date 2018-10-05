@@ -1,17 +1,23 @@
 #port {
-    background-color: #ffffff;
-    color: #4aaaa5;
+    background-color: #e7e7dc;
+    color: #343a40;
     padding: 0px;
     margin: 0px;
 }
 .container {
     border: solid grey 1px;
+    background-color: #e7e7dc;
+}
+
+.card-img-top {
+    height:175px;
 }
 .cardbackground {
-    background-color: #4aaaa5;
-    color: #ffffff;
+    background-color: #917c78;
+    color: #343a40;
     text-align: center;
 }
+
 @media only screen and (min-width: 992px) {
     .divwidth {
         max-width: 960px;

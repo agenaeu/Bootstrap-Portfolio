@@ -11,16 +11,27 @@ footer {
 .container {
     border: 1px solid grey;
 }
+.row-flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .content {
+    height: 100%;
+    padding: 20px 20px 10px;
+    color: #fff;
+  }
 #contact {
     background-color: #ffffff;
-    color: #4aaaa5;
+    color: #181aaa;
     padding: 20px;
     margin: 0px;
 }
-form {
-    padding: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #777777;
+#gitHub {
+    color: #ffffff;
+}
+
+#linkedIn {
+    color: #ffffff;
 }
 .submit {
     background-color: #4aaaa5;
